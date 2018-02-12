@@ -9,7 +9,7 @@ import org.apache.log4j.Logger;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by yaozb on 15-4-11.
+ * Created by zhongyunrui on 2018-02-07
  */
 public class NettyClientHandler extends SimpleChannelInboundHandler<String> {
     private volatile boolean reconnect = true;

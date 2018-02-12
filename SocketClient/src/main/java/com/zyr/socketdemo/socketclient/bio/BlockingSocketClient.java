@@ -9,8 +9,7 @@ import java.net.SocketAddress;
 import java.nio.charset.Charset;
 
 /**
- * @author zhangyicong
- * @since 2016/5/30
+ * @author Created by zhongyunrui on 2018-02-07
  */
 public class BlockingSocketClient {
     /* public static void main(String[] args) throws IOException {

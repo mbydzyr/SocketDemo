@@ -10,8 +10,7 @@ import java.net.SocketAddress;
 import java.nio.charset.Charset;
 
 /**
- * @author zhangyicong
- * @since 2016/5/30
+ * Created by zhongyunrui on 2018-02-07
  */
 public class SocketClient {
     private static Logger logger = LoggerFactory.getLogger(SocketClient.class);
